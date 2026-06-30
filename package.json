@@ -86,7 +86,7 @@
     "typescript": "5.9.2",
     "vite": "^7.3.2",
     "vite-plugin-version-mark": "^0.2.2",
-    "vite-tsconfig-paths": "^5.1.4",
+    "vite-tsconfig-paths": "^6.1.1",
     "vitest": "^3.2.4"
   },
   "optionalDependencies": {
